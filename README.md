@@ -1,4 +1,8 @@
-naruto_scrap
-============
+Naruto Video Scrap
+==================
 
-Scripts to scrap for Naruto Video Links hosted at novamov, and then import them in movshare via api
+This repo contains ruby scripts to scrap for Naruto Video Links hosted at novamov, and then import them in movshare via its api.
+
+## Dependencies
+
+ - nokogiri (ruby web scrapping library)
